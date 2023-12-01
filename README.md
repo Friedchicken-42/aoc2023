@@ -5,9 +5,9 @@ Trying a functional language *(also haskell seemed too hard)*
 ---
 
 ### Files
-`bin/DAY/` for the daily solutions
-`lib/` for useful functions
-`template/` basic starting point
+- `bin/DAY/` for the daily solutions
+- `lib/` for useful functions
+- `template/` basic starting point
 
 ### Helper
 ```sh
