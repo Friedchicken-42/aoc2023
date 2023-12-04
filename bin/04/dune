@@ -1,0 +1,9 @@
+(executable
+ (name first)
+ (libraries core str)
+ (modules first))
+
+(executable
+ (name second)
+ (libraries core)
+ (modules second))
