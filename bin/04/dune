@@ -5,5 +5,5 @@
 
 (executable
  (name second)
- (libraries core)
+ (libraries core str)
  (modules second))
