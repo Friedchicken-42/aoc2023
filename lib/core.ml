@@ -7,3 +7,5 @@ let read_lines () =
             End_of_file -> List.rev acc
     in
     read_lines []
+
+let chars s = List.of_seq (String.to_seq s)
