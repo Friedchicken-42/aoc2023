@@ -42,7 +42,7 @@ let rec get_points (y1, x1) (y2, x2) =
     else
         [(y1, x1)]
 
-let extend = 2
+let extend = 1000000
 
 let rec calculate_distances positions offsets =
     let calculate_distance a b =
